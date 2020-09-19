@@ -7,8 +7,10 @@
         <img src="https://img.shields.io/twitter/follow/rehmpke?label=Twitter&logo=twitter&style=for-the-badge" />
     </a>
 </p>
-- Interested currently: MongoDB, React, Express, and Node.
-- Learning: AWS Developer
+<ul>
+    <li>Interested currently: MongoDB, React, Express, and Node.</li>
+    <li>Learning: AWS Developer</li>
+</ul>
 <!--
 **rehmpke/rehmpke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
