@@ -9,7 +9,8 @@
 </p>
 <ul>
     <li>Interested currently: MongoDB, React, Express, and Node.</li>
-    <li>Learning: AWS Developer</li>
+    <li>🌱 I'm Learning: AWS Developer</li>
+    <li>⚡ Fun fact: I am into <a href="https://www.oilstrokes.com">painting</a>.
 </ul>
 <!--
 **rehmpke/rehmpke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
