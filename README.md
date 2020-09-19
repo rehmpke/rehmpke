@@ -1,12 +1,14 @@
 ### Hi there 👋
 <p>
-    I'm a developer, you can reach me at my <a href="https://www.rogerehmpke.com">rogerehmpke.com</a>.
+    I'm a developer, you can reach me at my <a href="https://www.rogerehmpke.com">rogerehmpke.com</a> or my <a href="https://www.twitter/rehmpke">Twitter</a>.
 </p>
 <p>
-<a href="http://twitter.com/rehmpke">
-    <img src="https://img.shields.io/twitter/follow/rehmpke?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  </p>
+    <a href="http://twitter.com/rehmpke">
+        <img src="https://img.shields.io/twitter/follow/rehmpke?label=Twitter&logo=twitter&style=for-the-badge" />
+    </a>
+</p>
+- Interested currently: MongoDB, React, Express, and Node.
+- Learning: AWS Developer
 <!--
 **rehmpke/rehmpke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
