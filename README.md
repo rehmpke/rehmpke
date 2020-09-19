@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Roger 👋
 <p>
-    I'm a developer, you can reach me at my <a href="https://www.rogerehmpke.com">rogerehmpke.com</a> or my <a href="https://twitter.com/rehmpke">Twitter</a>.
+    A developer, you can reach me at my <a href="https://www.rogerehmpke.com">rogerehmpke.com</a> or my <a href="https://twitter.com/rehmpke">Twitter</a>.
 </p>
 <p>
     <a href="http://twitter.com/rehmpke">
