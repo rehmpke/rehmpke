@@ -9,7 +9,7 @@
 ## 🔧 Technologies & Tools
 
 - **Front-End:** HTML, CSS, JavaScript, React
-- **Back-End:** Node.js, Express.js, Ruby on Rails
+- **Back-End:** Node.js, Express.js, Ruby
 - **Tools & Version Control:** Git, GitHub, WebPack
 - **Design:** Adobe Photoshop, Figma
 
