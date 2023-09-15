@@ -1,6 +1,6 @@
 # Roger Ehmpke
 
-🚀 Senior Coordinator of Web Design and Development | Web enthusiast | passionate about Web Development
+🚀 Senior Coordinator of Web Design and Development | Web enthusiast | Passionate about Web Development
 
 🌐 You can reach me at my [rogerehmpke.com](https://www.rogerehmpke.com")
 
