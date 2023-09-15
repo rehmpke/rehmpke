@@ -2,13 +2,7 @@
 
 🚀 Senior Coordinator of Web Design and Development | Web enthusiast | passionate about Web Development
 
-🌐 You can reach me at my [rogerehmpke.com](https://www.rogerehmpke.com") or my [Twitter](https://twitter.com/rehmpke)
-
-<p>
-    <a href="http://twitter.com/rehmpke">
-        <img src="https://img.shields.io/twitter/follow/rehmpke?label=Twitter&logo=twitter&style=for-the-badge" />
-    </a>
-</p>
+🌐 You can reach me at my [rogerehmpke.com](https://www.rogerehmpke.com")
 
 ## 🔧 Technologies & Tools
 
@@ -22,6 +16,21 @@
     <li>🌱 I'm Learning: AWS Developer</li>
     <li>⚡ Fun facts: I am into <a href="https://www.oilstrokes.com">portrait painting, gardening</a>.
 </ul>
+
+## 💬 Let's Connect
+
+I'm always open to collaborating on exciting projects, sharing ideas, and discussing web development. Let's connect on:
+
+- [LinkedIn](https://www.linkedin.com/in/rogerehmpke/)
+- [Twitter](https://twitter.com/rehmpke)
+
+<p>
+    <a href="http://twitter.com/rehmpke">
+        <img src="https://img.shields.io/twitter/follow/rehmpke?label=Twitter&logo=twitter&style=for-the-badge" />
+    </a>
+</p>
+
+Looking forward to connecting with fellow developers and innovators!
 <!--
 **rehmpke/rehmpke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
