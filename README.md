@@ -1,6 +1,6 @@
 ### Hi there, I'm Roger 👋
 <p>🚀 Senior Coordinator of Web Design and Development | Web enthusiast | passionate about Web Development</p>
-<p>you can reach me at my <a href="https://www.rogerehmpke.com">rogerehmpke.com</a> or my <a href="https://twitter.com/rehmpke">Twitter</a>.
+<p>🌐 You can reach me at my <a href="https://www.rogerehmpke.com">rogerehmpke.com</a> or my <a href="https://twitter.com/rehmpke">Twitter</a>.
 </p>
 <p>
     <a href="http://twitter.com/rehmpke">
