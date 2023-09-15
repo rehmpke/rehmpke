@@ -2,7 +2,7 @@
 
 🚀 Senior Coordinator of Web Design and Development | Web enthusiast | passionate about Web Development
 
-🌐 You can reach me at my [rogerehmpke.com](https://www.rogerehmpke.com") or my (Twitter)[https://twitter.com/rehmpke]
+🌐 You can reach me at my [rogerehmpke.com](https://www.rogerehmpke.com") or my [Twitter](https://twitter.com/rehmpke)
 
 <p>
     <a href="http://twitter.com/rehmpke">
