@@ -1,7 +1,9 @@
-### Hi there, I'm Roger 👋
-<p>🚀 Senior Coordinator of Web Design and Development | Web enthusiast | passionate about Web Development</p>
-<p>🌐 You can reach me at my <a href="https://www.rogerehmpke.com">rogerehmpke.com</a> or my <a href="https://twitter.com/rehmpke">Twitter</a>.
-</p>
+# Roger Ehmpke
+
+🚀 Senior Coordinator of Web Design and Development | Web enthusiast | passionate about Web Development
+
+🌐 You can reach me at my [rogerehmpke.com](https://www.rogerehmpke.com") or my (Twitter)[https://twitter.com/rehmpke]
+
 <p>
     <a href="http://twitter.com/rehmpke">
         <img src="https://img.shields.io/twitter/follow/rehmpke?label=Twitter&logo=twitter&style=for-the-badge" />
@@ -10,9 +12,12 @@
 
 ### 🔧 Technologies & Tools
 
-<ul>
-    <li>MongoDB, React, Express, and Node.</li>
-</ul>
+- **Front-End:** HTML, CSS, JavaScript, React, Vue.js
+- **Back-End:** Node.js, Express.js, Ruby on Rails
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools & Version Control:** Git, GitHub, WebPack
+- **Design:** Adobe Photoshop, Figma
+
 <ul>
     <li>Interested currently:</li>
     <li>🌱 I'm Learning: AWS Developer</li>
