@@ -22,12 +22,6 @@ I'm always open to collaborating on exciting projects, sharing ideas, and discus
 - [LinkedIn](https://www.linkedin.com/in/rogerehmpke/)
 - [Twitter](https://twitter.com/rehmpke)
 
-<p>
-    <a href="http://twitter.com/rehmpke">
-        <img src="https://img.shields.io/twitter/follow/rehmpke?label=Twitter&logo=twitter&style=for-the-badge" />
-    </a>
-</p>
-
 Looking forward to connecting with fellow developers and innovators!
 <!--
 **rehmpke/rehmpke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
