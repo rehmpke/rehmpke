@@ -10,7 +10,7 @@
     </a>
 </p>
 
-### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 - **Front-End:** HTML, CSS, JavaScript, React
 - **Back-End:** Node.js, Express.js, Ruby on Rails
