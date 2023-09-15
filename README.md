@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/twitter/follow/rehmpke?label=Twitter&logo=twitter&style=for-the-badge" />
     </a>
 </p>
-## 🔧 Technologies & Tools
+<h2>🔧 Technologies & Tools</h2>
 <ul>
     <li>MongoDB, React, Express, and Node.</li>
 </ul>
