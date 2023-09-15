@@ -4,16 +4,14 @@
 
 🌐 [rogerehmpke.com](https://www.rogerehmpke.com")
 
+📧 [rehmpke@gmail.com](mailto:rehmpke@gmail.com)
+
 ## 🔧 Technologies & Tools
 
 - **Front-End:** HTML, CSS, JavaScript, React
 - **Back-End:** Node.js, Express.js, Ruby on Rails
 - **Tools & Version Control:** Git, GitHub, WebPack
 - **Design:** Adobe Photoshop, Figma
-
-<ul>
-    <li>⚡ Fun facts: I am into <a href="https://www.oilstrokes.com">portrait painting</a>, gardening.
-</ul>
 
 ## 💬 Let's Connect
 
