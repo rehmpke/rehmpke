@@ -12,9 +12,8 @@
 
 ### 🔧 Technologies & Tools
 
-- **Front-End:** HTML, CSS, JavaScript, React, Vue.js
+- **Front-End:** HTML, CSS, JavaScript, React
 - **Back-End:** Node.js, Express.js, Ruby on Rails
-- **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools & Version Control:** Git, GitHub, WebPack
 - **Design:** Adobe Photoshop, Figma
 
