@@ -7,8 +7,12 @@
         <img src="https://img.shields.io/twitter/follow/rehmpke?label=Twitter&logo=twitter&style=for-the-badge" />
     </a>
 </p>
+## 🔧 Technologies & Tools
 <ul>
-    <li>Interested currently: MongoDB, React, Express, and Node.</li>
+    <li>MongoDB, React, Express, and Node.</li>
+</ul>
+<ul>
+    <li>Interested currently:</li>
     <li>🌱 I'm Learning: AWS Developer</li>
     <li>⚡ Fun facts: I am into <a href="https://www.oilstrokes.com">portrait painting, gardening</a>.
 </ul>
