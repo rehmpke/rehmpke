@@ -12,7 +12,7 @@
 - **Design:** Adobe Photoshop, Figma
 
 <ul>
-    <li>⚡ Fun facts: I am into <a href="https://www.oilstrokes.com">portrait painting, gardening</a>.
+    <li>⚡ Fun facts: I am into <a href="https://www.oilstrokes.com">portrait painting</a>, gardening.
 </ul>
 
 ## 💬 Let's Connect
