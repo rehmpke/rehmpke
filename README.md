@@ -12,8 +12,6 @@
 - **Design:** Adobe Photoshop, Figma
 
 <ul>
-    <li>Interested currently:</li>
-    <li>🌱 I'm Learning: AWS Developer</li>
     <li>⚡ Fun facts: I am into <a href="https://www.oilstrokes.com">portrait painting, gardening</a>.
 </ul>
 
