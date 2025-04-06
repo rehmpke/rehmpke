@@ -1,37 +1,28 @@
 # Roger Ehmpke
 
-🚀 Senior Coordinator of Web Design and Development | Web enthusiast | Passionate about Web Development
+Clarity-led web strategy for higher ed and complex digital systems.
 
-🌐 [rogerehmpke.com](https://www.rogerehmpke.com)
+I help mission-driven teams simplify the web—through UX leadership, accessible design, and content-focused development. With 25+ years in digital strategy, I'm currently guiding governance, CMS architecture, and front-end systems at [Kankakee Community College](https://www.kcc.edu).
 
-📧 [rehmpke@gmail.com](mailto:rehmpke@gmail.com)
+---
 
-## 🔧 Technologies & Tools
+### 🛠 Technologies & Tools
 
-- **Front-End:** HTML, CSS, JavaScript, React
-- **Back-End:** Node.js, Express.js, Ruby
-- **Tools & Version Control:** Git, GitHub, WebPack
-- **Design:** Adobe Photoshop, Figma
+- **Front End**: HTML, CSS, JavaScript, React
+- **Back End**: Node.js, Express.js, Ruby
+- **Workflow & CMS**: GitHub, Jekyll, CloudCannon, SharePoint, WordPress
+- **Design & UX**: Figma, Adobe Creative Cloud, accessibility audits
+- **Data & Strategy**: Google Tag Manager, Looker Studio, schema architecture
 
-## 💬 Let's Connect
+---
 
-I'm always open to collaborating on exciting projects, sharing ideas, and discussing web development. Let's connect on:
+### 🤝 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/rogerehmpke/)
-- [Twitter](https://twitter.com/rehmpke)
+I’m open to thoughtful conversations around operational UX, governance, and accessible digital platforms.
 
-Looking forward to connecting with fellow developers and innovators!
-<!--
-**rehmpke/rehmpke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
+- [LinkedIn](https://www.linkedin.com/in/rogerehmpke)
+- [rogerehmpke.com](https://www.rogerehmpke.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+_Always looking to connect with others shaping meaningful, human-centered systems._
